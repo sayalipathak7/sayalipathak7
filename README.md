@@ -19,6 +19,7 @@ Currently working on an **AI-driven e-commerce automation** project at **J&M Jew
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sayalipathak7)  
 📧 **Email:** [sayali7.pathak@gmail.com](mailto:sayali7.pathak@gmail.com)  
 
+📄 **[View My Resume](https://github.com/sayalipathak7/sayalipathak7/blob/main/Sayali_Pathak_Resume.pdf)**
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=sayalipathak7&label=Profile%20views&color=0e75b6&style=flat)
