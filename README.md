@@ -17,8 +17,6 @@ Currently working on an **AI-driven e-commerce automation** project at **J&M Jew
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayali-pathak/)  
 
-📧 **Email:** [sayali7.pathak@gmail.com](mailto:sayali7.pathak@gmail.com)  
-
 📄 **[View My Resume](https://github.com/sayalipathak7/sayalipathak7/blob/main/Sayali_Pathak_Resume.pdf)**
 ---
 
